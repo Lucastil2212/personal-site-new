@@ -140,7 +140,8 @@ main p {
 
 /* Contact */
 .social-media {
-    list-style
+    list-style: square;
+}
 
 /* Header */
 header h1 {
